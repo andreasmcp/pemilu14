@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+    <!-- http://getskeleton.com/ -->
+    <link rel="stylesheet" href="dist/css/normalize.css">
+    <link rel="stylesheet" href="dist/css/skeleton.css">
+
+    <!-- https://fonts.google.com/ -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+    <!-- https://d3js.org/ -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/topojson.v2.min.js"></script>
+
+    <!-- local -->
+    <title>Pemilihan Umum 2014</title>
+    <link rel="stylesheet" href="css/pemilu14.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="head" class="row">
+            <div id="title" class="twelve columns">
+                <h1>Indonesian National Election 2014</h1>
+                <hr/>
+            </div>
+        </div>
+        <div id="instructions">click on map or sunburst chart to zoom in data</div>
+        <div id="top" class="row">
+            <div id="map" class="eight columns"></div>
+            <div id="sun" class="four columns"></div>
+        </div>
+        <div id="middle" class="row">
+        </div>
+        <hr/>
+        <div id="bottom" class="row">
+            <div id="jokowi" class="two columns candidate">
+                <img src="img/jokowi.png" /> JOKOWI - JK
+            </div>
+            <div id="bar" class="eight columns"></div>
+            <div id="prabowo" class="two columns candidate">
+                <img src="img/prabowo.png" /> PRABOWO - HATTA
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="js/pemilu14.js"></script>
+    <script type="text/javascript" src="js/pemilu14map.js"></script>
+    <script type="text/javascript" src="js/pemilu14sun.js"></script>
+    <script type="text/javascript" src="js/pemilu14bar.js"></script>
+</body>
+
+</html>

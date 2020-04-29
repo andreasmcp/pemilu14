@@ -1,0 +1,93 @@
+body {
+    background-color: #FFFFFF;
+    position: relative;
+    font-family: "Lato", sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    margin: 20px;
+}
+
+
+/* GENERAL */
+
+.container {
+    max-width: 1360px;
+    text-align: center;
+}
+
+.button {
+    margin: 2px;
+}
+
+.toolTip {
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: -3px 3px 15px #888888;
+    color: black;
+    font: 12px sans-serif;
+    padding: 5px;
+    text-align: center;
+}
+
+
+/* TITLE */
+
+#head {
+    margin-top: 40px;
+}
+
+
+/* MAP */
+
+.province-border {
+    fill: none;
+    stroke: #FFFFFF;
+    stroke-dasharray: 2, 0;
+    stroke-linejoin: round;
+    stroke-width: 1.5px;
+}
+
+
+/* SUNBURST */
+
+#sun path {
+    stroke: #fff;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+
+/* BAR */
+
+.candidate {
+    font-size: 1.2em;
+}
+
+.voteinfo {
+    margin-top: 10px;
+    font-size: 1em;
+}
+
+.location {
+    font-size: 1.5em;
+}

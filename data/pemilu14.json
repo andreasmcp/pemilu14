@@ -1,0 +1,8619 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "55551",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "42182",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "56354",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "73999",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "40413",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27682",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH TENGGARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "64601",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "63548",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "143382",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "40522",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "57882",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "26030",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "47335",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "40062",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36160",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "91130",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "72502",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "82679",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH BESAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "72241",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "93308",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "123102",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PIDIE"
+        },
+        {
+          "children": [
+            {
+              "vote": "125359",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "82486",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "185321",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "11889",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "29538",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11619",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIMEULUE"
+        },
+        {
+          "children": [
+            {
+              "vote": "27281",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "19230",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "28000",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH SINGKIL"
+        },
+        {
+          "children": [
+            {
+              "vote": "95777",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "60087",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "139635",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BIREUEN"
+        },
+        {
+          "children": [
+            {
+              "vote": "28334",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "26534",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "41609",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH BARAT DAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "18172",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "25640",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15484",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GAYO LUES"
+        },
+        {
+          "children": [
+            {
+              "vote": "22189",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "17945",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "17291",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH JAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "35565",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "38848",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36565",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NAGAN RAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "74269",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41143",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72157",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ACEH TAMIANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "30389",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41171",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20258",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BENER MERIAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "24082",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "30338",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "47813",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PIDIE JAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "45823",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36003",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "74949",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BANDA ACEH"
+        },
+        {
+          "children": [
+            {
+              "vote": "7301",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "5537",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "10489",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SABANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "34616",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "19296",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "67973",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA LHOKSEUMAWE"
+        },
+        {
+          "children": [
+            {
+              "vote": "42693",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "18340",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48057",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA LANGSA"
+        },
+        {
+          "children": [
+            {
+              "vote": "20172",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "11276",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15511",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SUBULUSSALAM"
+        }
+      ],
+      "name": "ACEH"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "66898",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "73580",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "50623",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LABUHANBATU SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "73485",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "94247",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "69087",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LABUHANBATU UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "7283",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "45305",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "33898",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NIAS UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "6152",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "32202",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "16234",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NIAS BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "9585",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "48491",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "28378",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA GUNUNGSITOLI"
+        },
+        {
+          "children": [
+            {
+              "vote": "37093",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "95001",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "87867",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TAPANULI TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "11615",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "120744",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "77689",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TAPANULI UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "82611",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "50633",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "64791",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TAPANULI SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "6661",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "55301",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "28019",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NIAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "247482",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "228622",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "237913",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LANGKAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "25462",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "143746",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "106238",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KARO"
+        },
+        {
+          "children": [
+            {
+              "vote": "424682",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "373760",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "547647",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DELI SERDANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "144362",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "276389",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "216745",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIMALUNGUN"
+        },
+        {
+          "children": [
+            {
+              "vote": "154937",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "177331",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "157274",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ASAHAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "106571",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "91901",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "102538",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LABUHANBATU"
+        },
+        {
+          "children": [
+            {
+              "vote": "22125",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "109732",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72637",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DAIRI"
+        },
+        {
+          "children": [
+            {
+              "vote": "8154",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "79525",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "41043",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TOBA SAMOSIR"
+        },
+        {
+          "children": [
+            {
+              "vote": "150048",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "47046",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "110218",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MANDAILING NATAL"
+        },
+        {
+          "children": [
+            {
+              "vote": "26064",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "171401",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "59666",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NIAS SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "6681",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "12075",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11376",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PAKPAK BHARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "8284",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "77704",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "37212",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HUMBANG HASUNDUTAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "3346",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "57030",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "30181",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SAMOSIR"
+        },
+        {
+          "children": [
+            {
+              "vote": "150267",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "149761",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "152287",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SERDANG BEDAGAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "81404",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "93483",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "118024",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BATU BARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "530243",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "486395",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "730191",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MEDAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "40124",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83287",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "69686",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PEMATANGSIANTAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "14682",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "22573",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24840",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SIBOLGA"
+        },
+        {
+          "children": [
+            {
+              "vote": "34519",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "28611",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48439",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TANJUNG BALAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "77888",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "45463",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "59224",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BINJAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "41592",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "35498",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "45981",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TEBING TINGGI"
+        },
+        {
+          "children": [
+            {
+              "vote": "71847",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "23423",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49444",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PADANG SIDIMPUAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "82604",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "35786",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "37719",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PADANG LAWAS UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "76763",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "28789",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "53421",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PADANG LAWAS"
+        }
+      ],
+      "name": "SUMATERA UTARA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "147150",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "58374",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "116540",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PESISIR SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "141142",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "23831",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "102049",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SOLOK"
+        },
+        {
+          "children": [
+            {
+              "vote": "74503",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "24296",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48936",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIJUNJUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "127433",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "40187",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "103157",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANAH DATAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "140938",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "37355",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "113328",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PADANG PARIAMAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "175914",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "38392",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "117233",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "AGAM"
+        },
+        {
+          "children": [
+            {
+              "vote": "137083",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "34699",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "92848",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LIMA PULUH KOTA"
+        },
+        {
+          "children": [
+            {
+              "vote": "94243",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "26644",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72953",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PASAMAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "9071",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "31440",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "16380",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN MENTAWAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "70141",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36737",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "34954",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DHARMASRAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "56065",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "17103",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36223",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SOLOK SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "129400",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "42560",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "85537",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PASAMAN BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "304850",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83698",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "221322",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PADANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "25649",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "5070",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15779",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SOLOK"
+        },
+        {
+          "children": [
+            {
+              "vote": "23474",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "6666",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "14601",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SAWAHLUNTO"
+        },
+        {
+          "children": [
+            {
+              "vote": "18947",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "4402",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "10723",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PADANG PANJANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "40392",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "9434",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "23788",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BUKITTINGGI"
+        },
+        {
+          "children": [
+            {
+              "vote": "47131",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "11750",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "28019",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PAYAKUMBUH"
+        },
+        {
+          "children": [
+            {
+              "vote": "33979",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "6670",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20368",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PARIAMAN"
+        }
+      ],
+      "name": "SUMATERA BARAT"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "29611",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "55289",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "55564",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN MERANTI"
+        },
+        {
+          "children": [
+            {
+              "vote": "224680",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "138129",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "182031",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KAMPAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "80054",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "97460",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "113984",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "INDRAGIRI HULU"
+        },
+        {
+          "children": [
+            {
+              "vote": "116661",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "140869",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "122743",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BENGKALIS"
+        },
+        {
+          "children": [
+            {
+              "vote": "113645",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "168634",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "228020",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "INDRAGIRI HILIR"
+        },
+        {
+          "children": [
+            {
+              "vote": "66943",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "85496",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "88856",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PELALAWAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "119956",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "126012",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "105122",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ROKAN HULU"
+        },
+        {
+          "children": [
+            {
+              "vote": "114216",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "169637",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "133170",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ROKAN HILIR"
+        },
+        {
+          "children": [
+            {
+              "vote": "89874",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "90369",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "94206",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "74594",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "76259",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "79203",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUANTAN SINGINGI"
+        },
+        {
+          "children": [
+            {
+              "vote": "261593",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "129179",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "236440",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PEKANBARU"
+        },
+        {
+          "children": [
+            {
+              "vote": "57511",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65484",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "76812",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA DUMAI"
+        }
+      ],
+      "name": "RIAU"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "36381",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "10555",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24676",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SUNGAI PENUH"
+        },
+        {
+          "children": [
+            {
+              "vote": "104649",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "38680",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "60620",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KERINCI"
+        },
+        {
+          "children": [
+            {
+              "vote": "98973",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "95407",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "67978",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MERANGIN"
+        },
+        {
+          "children": [
+            {
+              "vote": "68598",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "76443",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "52841",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SAROLANGUN"
+        },
+        {
+          "children": [
+            {
+              "vote": "59741",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "72999",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "56691",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BATANGHARI"
+        },
+        {
+          "children": [
+            {
+              "vote": "81395",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "114132",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "80762",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MUARO JAMBI"
+        },
+        {
+          "children": [
+            {
+              "vote": "63806",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "79090",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "62816",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANJUNG JABUNG BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "44919",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "71431",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49271",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANJUNG JABUNG TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "91122",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "87530",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "61806",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BUNGO"
+        },
+        {
+          "children": [
+            {
+              "vote": "66172",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "108551",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "64773",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TEBO"
+        },
+        {
+          "children": [
+            {
+              "vote": "155560",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "142969",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "129590",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA JAMBI"
+        }
+      ],
+      "name": "JAMBI"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "108647",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "64472",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "78778",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "OGAN KOMERING ULU"
+        },
+        {
+          "children": [
+            {
+              "vote": "230650",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "191662",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "133825",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "OGAN KOMERING ILIR"
+        },
+        {
+          "children": [
+            {
+              "vote": "176547",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "217125",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "142418",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MUARA ENIM"
+        },
+        {
+          "children": [
+            {
+              "vote": "124162",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83865",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "85016",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAHAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "124598",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "193367",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "109728",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MUSI RAWAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "125556",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "176549",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "155698",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MUSI BANYUASIN"
+        },
+        {
+          "children": [
+            {
+              "vote": "189938",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "224109",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "172404",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANYUASIN"
+        },
+        {
+          "children": [
+            {
+              "vote": "225364",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "152303",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "98705",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "OGAN KOMERING ULU TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "110146",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "77139",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "73102",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "OGAN KOMERING ULU SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "107659",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "96506",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "97061",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "OGAN ILIR"
+        },
+        {
+          "children": [
+            {
+              "vote": "60332",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "48436",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72719",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "EMPAT LAWANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "410473",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "372168",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "361373",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PALEMBANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "38006",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "33579",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "32935",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PAGAR ALAM"
+        },
+        {
+          "children": [
+            {
+              "vote": "55804",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49873",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49016",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA LUBUKLINGGAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "44281",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "45896",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "43035",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PRABUMULIH"
+        }
+      ],
+      "name": "SUMATERA SELATAN"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "26040",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "33531",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "17381",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BENGKULU TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "31154",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "44964",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "38762",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BENGKULU SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "73479",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "59063",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "64467",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "REJANG LEBONG"
+        },
+        {
+          "children": [
+            {
+              "vote": "55425",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "95334",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "50920",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BENGKULU UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "26245",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36456",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "25576",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KAUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "39887",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "59531",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "39153",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SELUMA"
+        },
+        {
+          "children": [
+            {
+              "vote": "35039",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49631",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "35076",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MUKOMUKO"
+        },
+        {
+          "children": [
+            {
+              "vote": "22935",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "29369",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27966",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LEBONG"
+        },
+        {
+          "children": [
+            {
+              "vote": "41837",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "32655",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "34921",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPAHIANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "81132",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83135",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "88003",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BENGKULU"
+        }
+      ],
+      "name": "BENGKULU"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "102677",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "109675",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "97204",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PRINGSEWU"
+        },
+        {
+          "children": [
+            {
+              "vote": "45124",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "62581",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "39055",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MESUJI"
+        },
+        {
+          "children": [
+            {
+              "vote": "69047",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83631",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49966",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TULANG BAWANG BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "231365",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "287821",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "189976",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMPUNG SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "306752",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "366977",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "231577",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMPUNG TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "185801",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "138884",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "113607",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMPUNG UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "97555",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "140261",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "83825",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMPUNG BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "95164",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "112553",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "78456",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TULANG BAWANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "163155",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "145675",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "150189",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANGGAMUS"
+        },
+        {
+          "children": [
+            {
+              "vote": "230528",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "311267",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "235183",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMPUNG TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "107739",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "134930",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "93320",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "WAY KANAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "243525",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "240477",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "169728",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BANDAR LAMPUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "41932",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41842",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27241",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA METRO"
+        },
+        {
+          "children": [
+            {
+              "vote": "113560",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "123315",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "83071",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PESAWARAN"
+        }
+      ],
+      "name": "LAMPUNG"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "48689",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "85481",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "78039",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGKA"
+        },
+        {
+          "children": [
+            {
+              "vote": "28539",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "60700",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "28096",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BELITUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "24574",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "56235",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "53068",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGKA SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "22078",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "52707",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "45616",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGKA TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "22481",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "64716",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36285",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGKA BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "18542",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "42817",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "19544",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BELITUNG TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "35803",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49703",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "51037",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PANGKALPINANG"
+        }
+      ],
+      "name": "KEPULAUAN BANGKA BELITUNG"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "38264",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "55021",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "53260",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TANJUNGPINANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "5468",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "15145",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "9806",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN ANAMBAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "27117",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "43663",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "35461",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BINTAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "35843",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65509",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "66817",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KARIMUN"
+        },
+        {
+          "children": [
+            {
+              "vote": "9952",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "22372",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "19422",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NATUNA"
+        },
+        {
+          "children": [
+            {
+              "vote": "14018",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "32943",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20643",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LINGGA"
+        },
+        {
+          "children": [
+            {
+              "vote": "202246",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "257166",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "293491",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BATAM"
+        }
+      ],
+      "name": "KEPULAUAN RIAU"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "6906",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "8089",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "4599",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN SERIBU"
+        },
+        {
+          "children": [
+            {
+              "vote": "258376",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "308059",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "207527",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAKARTA PUSAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "342651",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "516654",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "275978",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAKARTA UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "479815",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "742103",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "434739",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAKARTA BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "612442",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "568358",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "386774",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAKARTA SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "827874",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "716631",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "372900",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAKARTA TIMUR"
+        }
+      ],
+      "name": "DKI JAKARTA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "1636134",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "852888",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "829902",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOGOR"
+        },
+        {
+          "children": [
+            {
+              "vote": "829802",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "392927",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "569021",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUKABUMI"
+        },
+        {
+          "children": [
+            {
+              "vote": "643722",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "442822",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "595652",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "CIANJUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "1171109",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "655044",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "620183",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANDUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "866613",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "369199",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "569501",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GARUT"
+        },
+        {
+          "children": [
+            {
+              "vote": "647755",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "268568",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "438151",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TASIKMALAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "492890",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "418505",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "331776",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "CIAMIS"
+        },
+        {
+          "children": [
+            {
+              "vote": "312002",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "250156",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "286032",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUNINGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "415517",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "653687",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "670961",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "CIREBON"
+        },
+        {
+          "children": [
+            {
+              "vote": "386707",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "338875",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "240691",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAJALENGKA"
+        },
+        {
+          "children": [
+            {
+              "vote": "401847",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "252193",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "184074",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMEDANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "371044",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "540832",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "511224",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "INDRAMAYU"
+        },
+        {
+          "children": [
+            {
+              "vote": "413671",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "447818",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "298586",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUBANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "347259",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "138257",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "161710",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PURWAKARTA"
+        },
+        {
+          "children": [
+            {
+              "vote": "708495",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "473557",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "509955",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KARAWANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "906196",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "555723",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "610123",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BEKASI"
+        },
+        {
+          "children": [
+            {
+              "vote": "547731",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "332085",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "295707",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANDUNG BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "340286",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "210578",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "129312",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BOGOR"
+        },
+        {
+          "children": [
+            {
+              "vote": "120118",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "53070",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49751",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SUKABUMI"
+        },
+        {
+          "children": [
+            {
+              "vote": "778703",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "571022",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "345848",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BANDUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "78359",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "91079",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "64336",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA CIREBON"
+        },
+        {
+          "children": [
+            {
+              "vote": "671405",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "555525",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "525264",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BEKASI"
+        },
+        {
+          "children": [
+            {
+              "vote": "543284",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "412695",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "297504",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA DEPOK"
+        },
+        {
+          "children": [
+            {
+              "vote": "198498",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "104239",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "85185",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA CIMAHI"
+        },
+        {
+          "children": [
+            {
+              "vote": "281665",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "99307",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "92457",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TASIKMALAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "56569",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49664",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "34499",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BANJAR"
+        }
+      ],
+      "name": "JAWA BARAT"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "381863",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "585252",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "517412",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "CILACAP"
+        },
+        {
+          "children": [
+            {
+              "vote": "346345",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "613226",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "359178",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANYUMAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "183873",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "320704",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "223200",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PURBALINGGA"
+        },
+        {
+          "children": [
+            {
+              "vote": "196898",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "322398",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "239637",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANJARNEGARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "257306",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "422713",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "356434",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEBUMEN"
+        },
+        {
+          "children": [
+            {
+              "vote": "166190",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "262246",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "201363",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PURWOREJO"
+        },
+        {
+          "children": [
+            {
+              "vote": "169209",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "296386",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "190775",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "WONOSOBO"
+        },
+        {
+          "children": [
+            {
+              "vote": "345405",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "407458",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "206773",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAGELANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "145353",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "457914",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "198881",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOYOLALI"
+        },
+        {
+          "children": [
+            {
+              "vote": "189035",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "562631",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "257603",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KLATEN"
+        },
+        {
+          "children": [
+            {
+              "vote": "105817",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "411498",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "154579",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUKOHARJO"
+        },
+        {
+          "children": [
+            {
+              "vote": "139522",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "462735",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "304088",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "WONOGIRI"
+        },
+        {
+          "children": [
+            {
+              "vote": "145555",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "387156",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "155924",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KARANGANYAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "131045",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "414425",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "225626",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SRAGEN"
+        },
+        {
+          "children": [
+            {
+              "vote": "192547",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "536562",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "373468",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GROBOGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "164706",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "335176",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "201888",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BLORA"
+        },
+        {
+          "children": [
+            {
+              "vote": "126454",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "245393",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "107299",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "REMBANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "197058",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "540504",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "293432",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PATI"
+        },
+        {
+          "children": [
+            {
+              "vote": "195171",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "260384",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "148750",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUDUS"
+        },
+        {
+          "children": [
+            {
+              "vote": "180741",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "436410",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "224423",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JEPARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "224076",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "369726",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "244812",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DEMAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "227602",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "359428",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "167236",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SEMARANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "167212",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "309118",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "103128",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TEMANGGUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "228708",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "329481",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "197942",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KENDAL"
+        },
+        {
+          "children": [
+            {
+              "vote": "145019",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "278706",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "162530",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BATANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "148592",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "328245",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "235565",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PEKALONGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "232693",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "453468",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "426822",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PEMALANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "297100",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "451294",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "449165",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TEGAL"
+        },
+        {
+          "children": [
+            {
+              "vote": "317975",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "601106",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "574016",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BREBES"
+        },
+        {
+          "children": [
+            {
+              "vote": "32173",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "42056",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "19137",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MAGELANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "52703",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "284199",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72875",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SURAKARTA"
+        },
+        {
+          "children": [
+            {
+              "vote": "38628",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "68664",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "22614",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SALATIGA"
+        },
+        {
+          "children": [
+            {
+              "vote": "292496",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "624289",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "205039",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SEMARANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "64738",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "99814",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "52912",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PEKALONGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "55912",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "78775",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "65427",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TEGAL"
+        }
+      ],
+      "name": "JAWA TENGAH"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "127145",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "136881",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "71871",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KULON PROGO"
+        },
+        {
+          "children": [
+            {
+              "vote": "271535",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "313383",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "134041",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANTUL"
+        },
+        {
+          "children": [
+            {
+              "vote": "176801",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "280110",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "140678",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GUNUNGKIDUL"
+        },
+        {
+          "children": [
+            {
+              "vote": "303420",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "355975",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "130155",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SLEMAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "98441",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "147900",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "63939",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA YOGYAKARTA"
+        }
+      ],
+      "name": "DAERAH ISTIMEWA YOGYAKARTA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "205365",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "112332",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "143585",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PACITAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "250385",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "280689",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "240842",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PONOROGO"
+        },
+        {
+          "children": [
+            {
+              "vote": "140980",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "267772",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "156891",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TRENGGALEK"
+        },
+        {
+          "children": [
+            {
+              "vote": "210972",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "401482",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "237562",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TULUNGAGUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "194251",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "488724",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "237330",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BLITAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "294429",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "619456",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "268370",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEDIRI"
+        },
+        {
+          "children": [
+            {
+              "vote": "549623",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "865641",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "574105",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MALANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "256576",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "319840",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "260182",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LUMAJANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "507428",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "694751",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "559711",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JEMBER"
+        },
+        {
+          "children": [
+            {
+              "vote": "361727",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "539652",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "360789",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANYUWANGI"
+        },
+        {
+          "children": [
+            {
+              "vote": "270778",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "175467",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "152482",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BONDOWOSO"
+        },
+        {
+          "children": [
+            {
+              "vote": "220034",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "153018",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "149754",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SITUBONDO"
+        },
+        {
+          "children": [
+            {
+              "vote": "280103",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "289694",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "287714",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PROBOLINGGO"
+        },
+        {
+          "children": [
+            {
+              "vote": "474725",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "344930",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "361831",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PASURUAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "464893",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "550726",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "375025",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIDOARJO"
+        },
+        {
+          "children": [
+            {
+              "vote": "260355",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "370265",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "183717",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MOJOKERTO"
+        },
+        {
+          "children": [
+            {
+              "vote": "303115",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "411112",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "277543",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JOMBANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "232506",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "376899",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "265514",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NGANJUK"
+        },
+        {
+          "children": [
+            {
+              "vote": "177992",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "240002",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "164781",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MADIUN"
+        },
+        {
+          "children": [
+            {
+              "vote": "205946",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "190962",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "157004",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAGETAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "200735",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "303169",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "221770",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NGAWI"
+        },
+        {
+          "children": [
+            {
+              "vote": "377277",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "352307",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "311945",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOJONEGORO"
+        },
+        {
+          "children": [
+            {
+              "vote": "267898",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "373199",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "288063",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TUBAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "368586",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "342249",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "371127",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMONGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "350955",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "312496",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "242982",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GRESIK"
+        },
+        {
+          "children": [
+            {
+              "vote": "644608",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "149258",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "169168",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGKALAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "474752",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "162785",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "167922",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SAMPANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "378652",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "135178",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "166898",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PAMEKASAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "332956",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "245410",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "318159",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMENEP"
+        },
+        {
+          "children": [
+            {
+              "vote": "59461",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "100492",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49334",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA KEDIRI"
+        },
+        {
+          "children": [
+            {
+              "vote": "29349",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "54599",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24056",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BLITAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "182128",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "270971",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "158147",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MALANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "69112",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "58149",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "37039",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PROBOLINGGO"
+        },
+        {
+          "children": [
+            {
+              "vote": "58967",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "43896",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "38979",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PASURUAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "32706",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41504",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20318",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MOJOKERTO"
+        },
+        {
+          "children": [
+            {
+              "vote": "41048",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65059",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "38300",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MADIUN"
+        },
+        {
+          "children": [
+            {
+              "vote": "498736",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "892123",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "626591",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SURABAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "46979",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "73055",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27051",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BATU"
+        }
+      ],
+      "name": "JAWA TIMUR"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "352187",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "245581",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "310045",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PANDEGLANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "337700",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "290868",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "285807",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LEBAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "878685",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "606456",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "627748",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANGERANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "473545",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "266663",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "358682",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SERANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "500587",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "425345",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "333947",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TANGERANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "131610",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "81908",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "63568",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA CILEGON"
+        },
+        {
+          "children": [
+            {
+              "vote": "182216",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "122022",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "151283",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SERANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "336141",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "359788",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "263217",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TANGERANG SELATAN"
+        }
+      ],
+      "name": "BANTEN"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "53278",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "104801",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "64653",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JEMBRANA"
+        },
+        {
+          "children": [
+            {
+              "vote": "82214",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "210896",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "60190",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TABANAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "78066",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "189217",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "78925",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BADUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "63953",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "223125",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72038",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GIANYAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "35921",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "70831",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "46972",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KLUNGKUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "37317",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "102528",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "40897",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGLI"
+        },
+        {
+          "children": [
+            {
+              "vote": "80760",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "159864",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "139359",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KARANGASEM"
+        },
+        {
+          "children": [
+            {
+              "vote": "102852",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "232228",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "202023",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BULELENG"
+        },
+        {
+          "children": [
+            {
+              "vote": "79880",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "241620",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "87874",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA DENPASAR"
+        }
+      ],
+      "name": "BALI"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "264566",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "79129",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "131333",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LOMBOK BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "362628",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "129040",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "232291",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LOMBOK TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "471546",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "155595",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "205070",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LOMBOK TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "160055",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "85539",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "85431",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMBAWA"
+        },
+        {
+          "children": [
+            {
+              "vote": "85635",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36005",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36492",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DOMPU"
+        },
+        {
+          "children": [
+            {
+              "vote": "168840",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "67336",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "119605",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BIMA"
+        },
+        {
+          "children": [
+            {
+              "vote": "43934",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "22185",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24771",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMBAWA BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "143741",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "71647",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "76831",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MATARAM"
+        },
+        {
+          "children": [
+            {
+              "vote": "59894",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "18916",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "25540",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BIMA"
+        },
+        {
+          "children": [
+            {
+              "vote": "83339",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "35846",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "39899",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LOMBOK UTARA"
+        }
+      ],
+      "name": "NUSA TENGGARA BARAT"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "79103",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "71596",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "50696",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUPANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "99317",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "102401",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "87816",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TIMOR TENGAH SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "44956",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "63390",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49830",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TIMOR TENGAH UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "66568",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "82988",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "98362",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BELU"
+        },
+        {
+          "children": [
+            {
+              "vote": "47494",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "51958",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24891",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ALOR"
+        },
+        {
+          "children": [
+            {
+              "vote": "27117",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "86450",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "42222",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "FLORES TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "30377",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "108911",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "62549",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIKKA"
+        },
+        {
+          "children": [
+            {
+              "vote": "37979",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "93411",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "38217",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ENDE"
+        },
+        {
+          "children": [
+            {
+              "vote": "20343",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "45560",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "23653",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NGADA"
+        },
+        {
+          "children": [
+            {
+              "vote": "34028",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "97352",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "59208",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MANGGARAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "29815",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "74902",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "47842",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMBA TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "13591",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "32124",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27921",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMBA BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "15357",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "39459",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "17587",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LEMBATA"
+        },
+        {
+          "children": [
+            {
+              "vote": "11862",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "44482",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "30286",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ROTE NDAO"
+        },
+        {
+          "children": [
+            {
+              "vote": "31080",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "81816",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "32931",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MANGGARAI BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "8628",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "56426",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20617",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NAGEKEO"
+        },
+        {
+          "children": [
+            {
+              "vote": "7950",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "21568",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "12221",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMBA TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "50596",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "119178",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "45002",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUMBA BARAT DAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "72361",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "107274",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "84084",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA KUPANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "29706",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "82233",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "59473",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MANGGARAI TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "11163",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "24597",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "12246",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SABU RAIJUA"
+        }
+      ],
+      "name": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "112819",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "155003",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "145583",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SAMBAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "73495",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49847",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "58779",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PONTIANAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "67672",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "191220",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "55605",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SANGGAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "91890",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "150144",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "106840",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KETAPANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "70855",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "170639",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "47414",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SINTANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "45342",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "88208",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36013",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KAPUAS HULU"
+        },
+        {
+          "children": [
+            {
+              "vote": "30726",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "91426",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "43668",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BENGKAYANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "37623",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "195610",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24360",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LANDAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "30996",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "84313",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "30157",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SEKADAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "59353",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "81234",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11743",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MELAWI"
+        },
+        {
+          "children": [
+            {
+              "vote": "26303",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "20669",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "28476",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KAYONG UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "182652",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "126277",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "107804",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PONTIANAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "39205",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "55590",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "69274",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SINGKAWANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "163423",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "112866",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "135161",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUBU RAYA"
+        }
+      ],
+      "name": "KALIMANTAN BARAT"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "61293",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65241",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "70709",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTAWARINGIN BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "79206",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "127678",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "124376",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTAWARINGIN TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "78155",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83402",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "107689",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KAPUAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "25836",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "37677",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "31482",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BARITO SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "22121",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "40394",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "46270",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BARITO UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "22595",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "48245",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "43311",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KATINGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "28589",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "51660",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "41947",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SERUYAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "8435",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "14199",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "16179",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUKAMARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "11739",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "23889",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "16634",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LAMANDAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "11787",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41452",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "32317",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GUNUNG MAS"
+        },
+        {
+          "children": [
+            {
+              "vote": "23195",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36991",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36192",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PULANG PISAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "20732",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "25468",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "31226",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MURUNG RAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "19907",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36052",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "21256",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BARITO TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "54687",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "63851",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "35891",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PALANGKARAYA"
+        }
+      ],
+      "name": "KALIMANTAN TENGAH"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "72095",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "81892",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "79229",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANAH LAUT"
+        },
+        {
+          "children": [
+            {
+              "vote": "57932",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "88379",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "79790",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTABARU"
+        },
+        {
+          "children": [
+            {
+              "vote": "131493",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "125116",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "136064",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANJAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "70890",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "71968",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "73173",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BARITO KUALA"
+        },
+        {
+          "children": [
+            {
+              "vote": "58181",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "37740",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36536",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TAPIN"
+        },
+        {
+          "children": [
+            {
+              "vote": "53777",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "52765",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "61056",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HULU SUNGAI SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "79784",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "52007",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "55276",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HULU SUNGAI TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "60178",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "43068",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "58297",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HULU SUNGAI UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "68841",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "50403",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48630",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TABALONG"
+        },
+        {
+          "children": [
+            {
+              "vote": "51812",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "93242",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "71081",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANAH BUMBU"
+        },
+        {
+          "children": [
+            {
+              "vote": "29306",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "32915",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27224",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BALANGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "153822",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "157062",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "171312",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BANJARMASIN"
+        },
+        {
+          "children": [
+            {
+              "vote": "53698",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "53191",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "41079",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BANJARBARU"
+        }
+      ],
+      "name": "KALIMANTAN SELATAN"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "50382",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65438",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "63965",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PASER"
+        },
+        {
+          "children": [
+            {
+              "vote": "117811",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "207503",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "192343",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUTAI KARTANEGARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "29777",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "66443",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "59536",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BERAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "17884",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36410",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "31495",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BULUNGAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "16802",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "60395",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "56221",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NUNUKAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "7966",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "26753",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "16324",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MALINAU"
+        },
+        {
+          "children": [
+            {
+              "vote": "21161",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "75625",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "44176",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUTAI BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "46159",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "100346",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "130663",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KUTAI TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "31374",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "42383",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "44532",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PENAJAM PASER UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "123073",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "177102",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "118772",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BALIKPAPAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "155316",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "216320",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "200685",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SAMARINDA"
+        },
+        {
+          "children": [
+            {
+              "vote": "36465",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "57213",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "44752",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TARAKAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "30757",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "52112",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "35856",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BONTANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "2807",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "6113",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "8120",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANA TIDUNG"
+        }
+      ],
+      "name": "KALIMANTAN TIMUR"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "22923",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "13864",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15503",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOLAANG MONGONDOW TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "19624",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "14495",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "9122",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOLAANG MONGONDOW SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "73276",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "44370",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "50912",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOLAANG MONGONDOW"
+        },
+        {
+          "children": [
+            {
+              "vote": "85418",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "113149",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "71057",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MINAHASA"
+        },
+        {
+          "children": [
+            {
+              "vote": "28218",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "46905",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "32613",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN SANGIHE"
+        },
+        {
+          "children": [
+            {
+              "vote": "11232",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "39962",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "17169",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN TALAUD"
+        },
+        {
+          "children": [
+            {
+              "vote": "53606",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "67508",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "47730",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MINAHASA SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "55360",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "60620",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36887",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MINAHASA UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "32870",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "31437",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "17318",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MINAHASA TENGGARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "22172",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "18012",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15510",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOLAANG MONGONDOW UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "12814",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "29077",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "12281",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEP SIAU TAGULANDANG BIARO"
+        },
+        {
+          "children": [
+            {
+              "vote": "94408",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "134572",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "122183",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MANADO"
+        },
+        {
+          "children": [
+            {
+              "vote": "41634",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "60822",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "50152",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BITUNG"
+        },
+        {
+          "children": [
+            {
+              "vote": "26137",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "31401",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "13343",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TOMOHON"
+        },
+        {
+          "children": [
+            {
+              "vote": "40403",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "18359",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "30627",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA KOTAMOBAGU"
+        }
+      ],
+      "name": "SULAWESI UTARA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "73805",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "50563",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "42439",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIGI"
+        },
+        {
+          "children": [
+            {
+              "vote": "74882",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "103276",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "72213",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGGAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "53151",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "63963",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "30742",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "POSO"
+        },
+        {
+          "children": [
+            {
+              "vote": "59129",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "79621",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "57909",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DONGGALA"
+        },
+        {
+          "children": [
+            {
+              "vote": "35776",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "68959",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "53643",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TOLITOLI"
+        },
+        {
+          "children": [
+            {
+              "vote": "32202",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "35339",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "26068",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BUOL"
+        },
+        {
+          "children": [
+            {
+              "vote": "41610",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "73276",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "41332",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MOROWALI"
+        },
+        {
+          "children": [
+            {
+              "vote": "40463",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "54019",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "26162",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANGGAI KEPULAUAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "93518",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "118330",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "85840",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PARIGI MOUTONG"
+        },
+        {
+          "children": [
+            {
+              "vote": "36729",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "38044",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24571",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TOJO UNA-UNA"
+        },
+        {
+          "children": [
+            {
+              "vote": "90744",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "81761",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "75567",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PALU"
+        }
+      ],
+      "name": "SULAWESI TENGAH"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "38990",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83471",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "60412",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TORAJA UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "27340",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "37543",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "27002",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN SELAYAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "52970",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "147572",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "134921",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BULUKUMBA"
+        },
+        {
+          "children": [
+            {
+              "vote": "36403",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49655",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48542",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BANTAENG"
+        },
+        {
+          "children": [
+            {
+              "vote": "85822",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "85031",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "120774",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JENEPONTO"
+        },
+        {
+          "children": [
+            {
+              "vote": "51298",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "98476",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "57582",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TAKALAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "131623",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "241625",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "135754",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GOWA"
+        },
+        {
+          "children": [
+            {
+              "vote": "42042",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "74275",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "59329",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SINJAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "53813",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "339766",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "166144",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BONE"
+        },
+        {
+          "children": [
+            {
+              "vote": "47191",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "126719",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "75606",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAROS"
+        },
+        {
+          "children": [
+            {
+              "vote": "47468",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "116198",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "76556",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PANGKAJENE DAN KEPULAUAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "13790",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "79091",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "38871",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BARRU"
+        },
+        {
+          "children": [
+            {
+              "vote": "19645",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "109559",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "53489",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SOPPENG"
+        },
+        {
+          "children": [
+            {
+              "vote": "34889",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "174843",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "111136",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "WAJO"
+        },
+        {
+          "children": [
+            {
+              "vote": "30953",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "126540",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "67410",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SIDENRENG RAPPANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "43482",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "143482",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "89818",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PINRANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "39810",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "62410",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48813",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ENREKANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "61083",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "131777",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "69299",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LUWU"
+        },
+        {
+          "children": [
+            {
+              "vote": "31216",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "76632",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "52114",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TANA TORAJA"
+        },
+        {
+          "children": [
+            {
+              "vote": "51038",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "101463",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "69411",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LUWU UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "43329",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "83832",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "64033",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LUWU TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "186893",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "447353",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "371200",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA MAKASSAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "18080",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "51211",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "29924",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PARE PARE"
+        },
+        {
+          "children": [
+            {
+              "vote": "25689",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "48502",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "43688",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA PALOPO"
+        }
+      ],
+      "name": "SULAWESI SELATAN"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "64694",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "92586",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "87965",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOLAKA"
+        },
+        {
+          "children": [
+            {
+              "vote": "79500",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "57538",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "53961",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KONAWE"
+        },
+        {
+          "children": [
+            {
+              "vote": "67604",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "48430",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "105377",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MUNA"
+        },
+        {
+          "children": [
+            {
+              "vote": "54793",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "69167",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "81585",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BUTON"
+        },
+        {
+          "children": [
+            {
+              "vote": "62741",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "74151",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "58506",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KONAWE SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "25165",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41326",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "40953",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOMBANA"
+        },
+        {
+          "children": [
+            {
+              "vote": "14824",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "31229",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "34822",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "WAKATOBI"
+        },
+        {
+          "children": [
+            {
+              "vote": "15394",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "54028",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "37349",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOLAKA UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "14245",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "18278",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11504",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KONAWE UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "11008",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "17139",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "14924",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BUTON UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "72705",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "80645",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "90330",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA KENDARI"
+        },
+        {
+          "children": [
+            {
+              "vote": "28461",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "37700",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "48105",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA BAU BAU"
+        }
+      ],
+      "name": "SULAWESI TENGGARA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "140134",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "67189",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "70710",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GORONTALO"
+        },
+        {
+          "children": [
+            {
+              "vote": "43129",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "33179",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20843",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOALEMO"
+        },
+        {
+          "children": [
+            {
+              "vote": "54995",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "30674",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20388",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BONE BOLANGO"
+        },
+        {
+          "children": [
+            {
+              "vote": "37943",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "32126",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "25677",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PAHUWATO"
+        },
+        {
+          "children": [
+            {
+              "vote": "40269",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "20161",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "21907",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "GORONTALO UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "62265",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "38168",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "34693",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA GORONTALO"
+        }
+      ],
+      "name": "GORONTALO"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "16909",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "50833",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36435",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAMUJU UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "42327",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "138250",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "68594",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAMUJU"
+        },
+        {
+          "children": [
+            {
+              "vote": "19710",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "67656",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "32883",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAMASA"
+        },
+        {
+          "children": [
+            {
+              "vote": "67377",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "136429",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "102420",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "POLEWALI MANDAR"
+        },
+        {
+          "children": [
+            {
+              "vote": "19171",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "62853",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "25730",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAJENE"
+        }
+      ],
+      "name": "SULAWESI BARAT"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "11339",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "24720",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11724",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MALUKU BARAT DAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "22733",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "22952",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "4164",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BURU SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "115572",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "88144",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "90709",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MALUKU TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "17944",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "33929",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "17061",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MALUKU TENGGARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "11415",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "36029",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "23054",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MALUKU TENGGARA BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "44878",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "23164",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20059",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BURU"
+        },
+        {
+          "children": [
+            {
+              "vote": "46986",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "27943",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "12744",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SERAM BAGIAN TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "55436",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "43068",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "40789",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SERAM BAGIAN BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "11470",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "29898",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "18950",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN ARU"
+        },
+        {
+          "children": [
+            {
+              "vote": "76136",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "100744",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "88867",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA AMBON"
+        },
+        {
+          "children": [
+            {
+              "vote": "20072",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "12449",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11154",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TUAL"
+        }
+      ],
+      "name": "MALUKU"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "24702",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "11403",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "9411",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PULAU MOROTAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "26309",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "28790",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "20204",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HALMAHERA BARAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "12507",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "13141",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "8692",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HALMAHERA TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "37923",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49188",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "44169",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HALMAHERA UTARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "64072",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "48196",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "49539",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HALMAHERA SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "37701",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "31778",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "31172",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN SULA"
+        },
+        {
+          "children": [
+            {
+              "vote": "21864",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "20152",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "23006",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "HALMAHERA TIMUR"
+        },
+        {
+          "children": [
+            {
+              "vote": "54043",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "30113",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "69651",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TERNATE"
+        },
+        {
+          "children": [
+            {
+              "vote": "27671",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "23840",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "21016",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA TIDORE KEPULAUAN"
+        }
+      ],
+      "name": "MALUKU UTARA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "13765",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "56184",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "INTAN JAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "5628",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "41970",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "7",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DEIYAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "42579",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "134800",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "5",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TOLIKARA"
+        },
+        {
+          "children": [
+            {
+              "vote": "3233",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "18302",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "3065",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "WAROPEN"
+        },
+        {
+          "children": [
+            {
+              "vote": "7017",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "22322",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "11365",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BOVEN DIGOEL"
+        },
+        {
+          "children": [
+            {
+              "vote": "8192",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "35546",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "19719",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAPPI"
+        },
+        {
+          "children": [
+            {
+              "vote": "13288",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "52957",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "5699",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "ASMAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "869",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "9421",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "3065",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SUPIORI"
+        },
+        {
+          "children": [
+            {
+              "vote": "1115",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "19089",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "1758",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAMBERAMO RAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "69220",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "96780",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "162661",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA JAYAPURA"
+        },
+        {
+          "children": [
+            {
+              "vote": "24116",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "5539",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "-220",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAMBERAMO TENGAH"
+        },
+        {
+          "children": [
+            {
+              "vote": "17812",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "50050",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "1",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "YALIMO"
+        },
+        {
+          "children": [
+            {
+              "vote": "82841",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "62609",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "LANNY JAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "40000",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "106784",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NDUGA"
+        },
+        {
+          "children": [
+            {
+              "vote": "8071",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "149096",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "2",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PUNCAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "0",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "89536",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "18022",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "DOGIYAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "47584",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "49784",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "50488",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MERAUKE"
+        },
+        {
+          "children": [
+            {
+              "vote": "33262",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "177483",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "1004",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAYAWIJAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "33076",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "61340",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "24810",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "JAYAPURA"
+        },
+        {
+          "children": [
+            {
+              "vote": "41061",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "90541",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "9417",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "NABIRE"
+        },
+        {
+          "children": [
+            {
+              "vote": "11612",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65312",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "12449",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEPULAUAN YAPEN"
+        },
+        {
+          "children": [
+            {
+              "vote": "9300",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "47371",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "36297",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "BIAK NUMFOR"
+        },
+        {
+          "children": [
+            {
+              "vote": "78797",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "87122",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PUNCAK JAYA"
+        },
+        {
+          "children": [
+            {
+              "vote": "7662",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "82970",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "0",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PANIAI"
+        },
+        {
+          "children": [
+            {
+              "vote": "57937",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "124583",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "40201",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MIMIKA"
+        },
+        {
+          "children": [
+            {
+              "vote": "4586",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "13095",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "8967",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SARMI"
+        },
+        {
+          "children": [
+            {
+              "vote": "14710",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "16684",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15376",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KEEROM"
+        },
+        {
+          "children": [
+            {
+              "vote": "5502",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "84149",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "31",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "PEGUNUNGAN BINTANG"
+        },
+        {
+          "children": [
+            {
+              "vote": "86297",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "175316",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "2370",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "YAHUKIMO"
+        }
+      ],
+      "name": "PAPUA"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "vote": "7966",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "20882",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "66",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MAYBRAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "4559",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "15274",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "1557",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TAMBRAUW"
+        },
+        {
+          "children": [
+            {
+              "vote": "24307",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "33514",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "29515",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SORONG"
+        },
+        {
+          "children": [
+            {
+              "vote": "42328",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "101375",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "30401",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "MANOKWARI"
+        },
+        {
+          "children": [
+            {
+              "vote": "15055",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "21129",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "15239",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "FAKFAK"
+        },
+        {
+          "children": [
+            {
+              "vote": "8939",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "25590",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "932",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "SORONG SELATAN"
+        },
+        {
+          "children": [
+            {
+              "vote": "7920",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "19626",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "10564",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "RAJA AMPAT"
+        },
+        {
+          "children": [
+            {
+              "vote": "12314",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "28499",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "9338",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TELUK BINTUNI"
+        },
+        {
+          "children": [
+            {
+              "vote": "3291",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "14104",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "5176",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "TELUK WONDAMA"
+        },
+        {
+          "children": [
+            {
+              "vote": "6766",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "15227",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "14020",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KAIMANA"
+        },
+        {
+          "children": [
+            {
+              "vote": "39083",
+              "name": "PRABOWO"
+            },
+            {
+              "vote": "65159",
+              "name": "JOKOWI"
+            },
+            {
+              "vote": "65645",
+              "name": "NON VOTERS"
+            }
+          ],
+          "name": "KOTA SORONG"
+        }
+      ],
+      "name": "PAPUA BARAT"
+    }
+  ],
+  "name": "INDONESIA"
+}
